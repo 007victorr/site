@@ -1,3 +1,12 @@
 p {
-   text aline:center
+   text aline:center;
 }
+
+body {
+   background: #CCCCCC
+}
+
+strong {
+color: red;
+}
+
